@@ -1,1 +1,2 @@
-# Artificial-Intelligence Neural Network
+# Artificial-Intelligence
+Projects
